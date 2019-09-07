@@ -2,8 +2,16 @@ Docker and Flask and Nginx test, based on internet exersize book
 =================================================================
 
 Date: 2019-09-07
-Version: 1.0
+Version: 1.1
 Experimenter: Mikhail Kolodin
+
+
+Experimental version
+----------------------
+
+Run 
+docker-compose up
+and see http://localhost:8088
 
 
 Initial version
