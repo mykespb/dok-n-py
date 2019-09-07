@@ -13,6 +13,10 @@ Run
 docker-compose up
 and see http://localhost:8088
 
+It uses venv, so start it when needed.
+
+It runs python 3.7.3 inside.
+
 
 Initial version
 ----------------------
