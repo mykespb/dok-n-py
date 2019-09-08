@@ -1,8 +1,8 @@
 Docker and Flask and Nginx test, based on internet exersize book
 =================================================================
 
-Date: 2019-09-07
-Version: 1.1
+Date: 2019-09-08
+Version: 1.2
 Experimenter: Mikhail Kolodin
 
 
@@ -16,6 +16,8 @@ and see http://localhost:8088
 It uses venv, so start it when needed.
 
 It runs python 3.7.3 inside.
+
+1.2. Improved version of packages installation and updating order.
 
 
 Initial version
