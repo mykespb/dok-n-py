@@ -1,8 +1,8 @@
 Docker and Flask and Nginx test, based on internet exersize book
 =================================================================
 
-Date: 2019-09-08
-Version: 1.2
+Date: 2019-09-09
+Version: 1.3
 Experimenter: Mikhail Kolodin
 
 
@@ -13,7 +13,7 @@ Run
 docker-compose up
 and see http://localhost:8088
 
-It uses venv, so start it when needed.
+It uses venv, so start it when needed for development.
 
 It runs python 3.7.3 inside.
 
